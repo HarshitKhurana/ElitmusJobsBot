@@ -4,7 +4,7 @@
 * 08.01.18
 
 
-* Elitmus-mail Script : This is a simple script used to get the current number of Jobs listed on the https://elitmus.com/jpbs along with their details.
+* Elitmus-mail Script : This is a simple script used to get the current number of Jobs listed on the https://elitmus.com/jobs along with their details.
 		    It does not require any type of authentication.
 		    It further saves the details in a file and Emails that to the user. 
 
