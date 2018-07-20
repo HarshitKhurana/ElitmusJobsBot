@@ -10,6 +10,7 @@
 
 * sendmail_SMTP_elitmus : This script is used for actual sending of the mail using SMTP protocol.
 To use this 'low-level authentication' must be SwitchedOn in the gmail account.
+
 	-> You can enable this here : https://myaccount.google.com/lesssecureapps 
 
 * Currently this script can send email to 1 user at a time only.
