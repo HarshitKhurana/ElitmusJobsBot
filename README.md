@@ -1,6 +1,5 @@
 
 * HARSHIT KHURANA
-* hkhurana3@gmail.com
 * 08.01.18
 
 
